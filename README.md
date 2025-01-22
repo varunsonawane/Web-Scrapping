@@ -89,3 +89,4 @@ The goal of this project is to extract meaningful data from websites, process it
 🌐 GitHub: [varunsonawane](https://github.com/varunsonawane)  
 
 Feel free to reach out for any questions or collaboration opportunities!  
+

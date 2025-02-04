@@ -1,4 +1,3 @@
-
 # 🌐 Web Scraping Project  
 
 This repository contains a project focused on extracting structured data from websites using Python. The project demonstrates various web scraping techniques, leveraging popular Python libraries for efficient data extraction and storage.
